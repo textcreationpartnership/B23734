@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A lamentation against the professing priest and people of Oxford, and to all in the cages of unclean birds, called colleges [by] Margret Greenway.</title>
+            <author>Greenway, Margret.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23734</idno>
+            <idno type="STC">Wing G1861</idno>
+            <idno type="EEBO-CITATION">31355373</idno>
+            <idno type="OCLC">ocm 31355373</idno>
+            <idno type="VID">205856</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B23734)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205856)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1739:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A lamentation against the professing priest and people of Oxford, and to all in the cages of unclean birds, called colleges [by] Margret Greenway.</title>
+                  <author>Greenway, Margret.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>ca. 1657]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Controversial literature.</term>
+               <term>University of Oxford --  Controversial literature.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:205856:1" rendition="simple:additions"/>
+            <head>A LAMENTATION againſt the Profeſ<g ref="char:EOLhyphen"/>ſing <hi>Prieſt</hi> and <hi>People</hi> of <hi>OXFORD;</hi> And to all in the Cages of unclean birds, called Colleges.</head>
+            <p>
+               <seg rend="decorInit">W</seg>OE be to the Deceived and Deceivers, that will not Enter, nor ſuffer others, through your lies and traditions. Woe be to you that ſpeak evill of that you know not, and of the Servants of the moſt high God, which he hath ſent to viſit you, whom you ſay are be<g ref="char:EOLhyphen"/>witched and deluded of the Devill: Is ſeparation from ſin, pride, and deceit, (in which you live) a deluſion? Nay, we feel it to be freedome, that have believed and obeyed him that is made manifeſt for that very end, to deſtroy the works of the Devill; we ſet to our ſeal that God is true, but they that believe not make God a Lyar. You plead for ſin while you live, when I have been wounded for ſin: ſome of your Prieſts have told me, I could not be freed from ſin in this life, but that I ſhould be cleanſed after death by the blood of Chriſt; I then anſwered you, My conſcience condemned me, and God is greater and would alſo condemn me, and that I find in the Scripture, that as the tree falls ſo it lies, and as Death leaves man judgement finds him, yet you told me I ſhould be waſhed and made ſpotleſſe in Chriſt, but ſince the Lord hath opened my eye to behold your abomi<g ref="char:EOLhyphen"/>nable deceit, and falſe doctrines of Devills, by which his Kingdome is upheld; and in this you as much as in you is, fruſtrate the End of Chriſts being manifeſt in fleſh, which was to deſtroy the works of the Devill, and all that are born againe will witneſſe againſt your Doctrine, for he that is born of God ſins not, neither can he becauſe the Seed remaines in him.</p>
+            <p>Oh abominable Doctrin! that denies Chriſt to be a compleat redeemer, to you that are pleading for ſin, and live in pride, coveteouſneſſe, and deceit, indeed you are not re<g ref="char:EOLhyphen"/>deemed, you will not come to him that you might have life. And ſo the Lamb of God that takes away the ſins of the world you know not, nor the Grace that hath appeared to all, and brings ſalvation to them which obey, you know not, but in my meaſure I witnes him, and denie you and your Doctrin.</p>
+            <p>Woe be to you that are pleading for ſin, it is for ſin that the Lord will have a contro<g ref="char:EOLhyphen"/>verſie with you, profeſſing Prieſt and People of <hi>Oxford,</hi> plead no longer for ſin, but turn into that of God in you, which ſhews ſin and evill, and waite in it for ſtrength to be deli<g ref="char:EOLhyphen"/>vered from ſin. Oh that you ſaw what an enemy. ſin is to your ſoules! then you could not ſit at eaſe in your wealth and vaine glory: Oh that you were ſenſible of the dread<g ref="char:EOLhyphen"/>full day that is coming on you for ſin, wherein that which now checks you will roar like a Lyon, therefore tremble you beaſts of the field.</p>
+            <p>Oh abominable Prieſts! the worſt of all men, deceivers that will not enter your ſelves nor ſuffer ſuch as would; will your Preaching and long prayers plead for you, in that day which the Lord will plead with all fleſh? Give over deceiving, boaſt not in other mens words, ſaying, <hi>Thus ſaith the Lord,</hi> when he hath not ſpoken to you, for that the true Prophet of the Lord hath cryed woe againſt, and againſt all that ſteal words from their neighbours; and till you know the word of the Lord, and are commanded by it, for ever let your mouths be ſtopped, for what is the chaf to the wheat, turn into the light of Chriſt with which he hath lighted you and all men, and that if you heed it will teach you to ſtand in Gods counſell, the want of which hath been the cauſe of ſo little profit a<g ref="char:EOLhyphen"/>mongſt your hearers, which have been long learning, and are not able to come to the knowledge of the truth, but are deceived by your empty words, which are but as husks to feed ſwine, but the Fathers houſe is not known by you nor them, where there is bread e<g ref="char:EOLhyphen"/>nough. Therefore, I ſay, give over your deceiving, and holding the truth in unrighteouſ<g ref="char:EOLhyphen"/>neſſe, for againſt ſuch is the wrath of God revealing, becauſe that which may be known of God is manifeſt in them, for God hath ſhewn it unto them, <hi>Rom.</hi> 1.19. The word of God is near, even in the mouth and in the heart, and that was t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e word of Faith which <hi>Paul</hi> preached, <hi>Rom.</hi> 10.8. And bleſſed are all they that know it, hear it, believe it, and obey it, they come to hear the true Shepheard, and a ſtranger they will not hear: Now you are warned to give over deceiving, by a friend to your ſoules, but a hater of all your pride and deceit, known to the world by the Name,</p>
+            <closer>
+               <signed>Margret Greenway.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
